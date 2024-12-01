@@ -200,6 +200,7 @@
         </dependency>
 
         <!-- HIBERNATE -->
+             <!-- Mahesh -->
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-entitymanager</artifactId>
